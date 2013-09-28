@@ -3,3 +3,9 @@
 */logs/!index.html
 */cache/*
 */cache/!index.html
+
+# ides files
+
+.project
+.settings
+.classpath
