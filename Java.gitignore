@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+
+# ignore any ide or editor files
+.project
+.settings
+.classpath
